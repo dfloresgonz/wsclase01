@@ -16,6 +16,7 @@ namespace WSProyect
         {
             int rpta;
             string msj;
+            //
             if(value > 10)
             {
                 msj = "El valor no puede ser mayor a 10";
