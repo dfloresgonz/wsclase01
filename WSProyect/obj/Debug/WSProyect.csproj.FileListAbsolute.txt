@@ -1,0 +1,6 @@
+C:\Users\diego\source\repos\WSSolution\WSProyect\bin\WSProyect.dll.config
+C:\Users\diego\source\repos\WSSolution\WSProyect\bin\WSProyect.dll
+C:\Users\diego\source\repos\WSSolution\WSProyect\bin\WSProyect.pdb
+C:\Users\diego\source\repos\WSSolution\WSProyect\obj\Debug\WSProyect.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\WSSolution\WSProyect\obj\Debug\WSProyect.dll
+C:\Users\diego\source\repos\WSSolution\WSProyect\obj\Debug\WSProyect.pdb
